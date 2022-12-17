@@ -1,6 +1,6 @@
 # portafolio-Leonardo-Rivera
 
-This template should help get you started developing with Vue 3 in Vite.
+Codigo fuente portafolio Leonardo Rivera hecho en Vue js
 
 ## Recommended IDE Setup
 

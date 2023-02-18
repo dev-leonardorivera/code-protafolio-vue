@@ -1,11 +1,11 @@
-##Prtafolio web Leonardo Rivera
+## Prtafolio web Leonardo Rivera
 Codigo fuente portafolio Leonardo Rivera hecho en Vue js
 Portafolio personal donde muestro algunos de mis proyectos y mensiono mis habilidades.
 
-##tegnolodias empleadas
+## tegnolodias empleadas
 HTML, CSS, Vue.js, bootstrap 5
 
-##Demo
+# #Demo
 https://dev-leonardorivera.github.io/portafolio/
 
 
